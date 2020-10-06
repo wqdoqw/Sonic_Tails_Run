@@ -1,0 +1,19 @@
+배경화면:
+space : https://wallpaperaccess.com/retro-space
+forest : https://www.10wallpaper.com/kr/view/sun_shining_through_the_forest-natural_landscape_desktop_Wallpapers.html
+mountain: https://www.pinterest.co.uk/pin/561401909795358935/?nic_v2=1a6VTHlIT
+캐릭터:
+tails_fly : https://aminoapps.com/c/sonic/page/blog/how-to-animate-tails-in-a-3d-sonic-game/42gZ_Mq5SYuNzovVERD0NNR5eKjnDame86P
+ring: https://gfycat.com/ko/consciousfinishedconch
+tails: https://www.deviantart.com/kid45buu2/art/New-Badass-Tails-Sprite-343982034
+인트로, 끝 배경
+sonictailbackground: https://www.youtube.com/watch?v=oor7EHrRCsQ
+endpanel: http://www.justjared.com/2020/02/14/is-there-a-sonic-the-hedgehog-end-credits-scene/
+이펙트:
+potion: https://www.deviantart.com/saramfdraws/art/Potion-pixel-animation-622342800
+fireball: https://gfycat.com/ko/regalrecklesshind
+아이콘:
+icon: https://www.deviantart.com/nibroc-rock/art/Vector-Icon-Tails-524574874
+music icon: https://en.wikipedia.org/wiki/File:Simple_Music.svg
+음악:
+music : https://freesound.org/people/yummie/sounds/410574/
