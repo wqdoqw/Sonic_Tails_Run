@@ -18,7 +18,9 @@ public class LoadMap {
 	 * 이미지의 높이와 너비를 반환한다
 	 * </p>
 	 * @param src
-	 * @return Integer: 정수 형태의 이미지의 높이와 너비
+	 * 			URL형태의 이미지의 주소
+	 * @return Integer
+	 * 			정수 형태의 이미지의 높이와 너비
 	 */
 	public static int[] getSize(URL src) throws Exception {
 		BufferedImage img = ImageIO.read(src);
@@ -33,7 +35,9 @@ public class LoadMap {
 	 * 이미지를 읽어서 픽셀의 십진법의 RGB값을 2차원 정수형 배열에 저장한다.
 	 * </p>
 	 * @param src
-	 * @return 2차원 정수형 배열 형태의 픽셀의 십진법의 RGB 값
+	 * 			URL형태의 이미지의 주소
+	 * @return 2차원 정수형 배열
+	 * 			2차원 정수형 배열 형태의 픽셀의 십진법의 RGB 값
 	 * @throws Exception 
 	 */
 	public static int[][] getPic(URL src) throws Exception {

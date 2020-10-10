@@ -9,11 +9,16 @@ tails: https://www.deviantart.com/kid45buu2/art/New-Badass-Tails-Sprite-34398203
 인트로, 끝 배경
 sonictailbackground: https://www.youtube.com/watch?v=oor7EHrRCsQ
 endpanel: http://www.justjared.com/2020/02/14/is-there-a-sonic-the-hedgehog-end-credits-scene/
+sonicbackground2: https://www.deviantart.com/nickquivooy/art/Sonic-Background-299661830
 이펙트:
 potion: https://www.deviantart.com/saramfdraws/art/Potion-pixel-animation-622342800
 fireball: https://gfycat.com/ko/regalrecklesshind
 아이콘:
 icon: https://www.deviantart.com/nibroc-rock/art/Vector-Icon-Tails-524574874
 music icon: https://en.wikipedia.org/wiki/File:Simple_Music.svg
+cogwheel: https://www.iconfinder.com/icons/216602/cogwheel_icon
 음악:
 music : https://freesound.org/people/yummie/sounds/410574/
+데이터베이스:
+red_light: https://www.pngkit.com/bigpic/u2a9o0y3i1y3i1q8/
+green_light: http://www.pngmart.com/image/52219

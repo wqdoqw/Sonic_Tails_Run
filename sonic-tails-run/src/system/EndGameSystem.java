@@ -2,6 +2,7 @@ package system;
 
 import static resource.Resource.character;
 import static resource.Resource.score;
+import static resource.Resource.end;
 import java.awt.CardLayout;
 
 import gui.EndPanel;
@@ -23,9 +24,10 @@ public class EndGameSystem {
 	 * @return boolean 게임이 끝나면 참 아니면 참이 아닌값을 반환한다
 	 */
 	public boolean end(JFrame frame, CardLayout card) {
-		if (character.getHealth() <= 0) {
+		if (character.getHealth() <= 0 || end) {
 			EndPanel.setResultScore(score.getScore());
 			card.show(frame.getContentPane(), "endPanel");
+			
 			return true;
 		}
 		return false;

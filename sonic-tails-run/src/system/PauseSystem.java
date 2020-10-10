@@ -14,7 +14,6 @@ public class PauseSystem {
 	 * </p>
 	 */
 	public void pause() {
-		if (pause) {
 			while (pause) {
 				try {
 					Thread.sleep(10);
@@ -22,6 +21,5 @@ public class PauseSystem {
 					e.printStackTrace();
 				}
 			}
-		}
 	}
 }

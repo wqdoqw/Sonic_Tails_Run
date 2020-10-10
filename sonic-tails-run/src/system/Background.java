@@ -9,6 +9,7 @@ import static resource.Resource.character;
 import static resource.Resource.mapLength;
 import static resource.Resource.background2;
 import static resource.Resource.background3;
+import static resource.Resource.end;
 /**
  * 
  * @author Sang Ik Park
@@ -50,6 +51,9 @@ public class Background {
 				break;
 			case 55:
 				background = background3;
+				break;
+			case 78:
+				end = true;
 				break;
 			}
 			mapLength++;

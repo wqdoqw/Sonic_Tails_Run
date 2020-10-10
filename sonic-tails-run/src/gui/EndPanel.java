@@ -56,5 +56,6 @@ public class EndPanel extends JPanel {
 	protected void paintComponent(Graphics g) {
 		super.paintComponent(g);
 		g.drawImage(end, 0, 0, this.getWidth(), this.getHeight(), null);
+		
 	}
 }
